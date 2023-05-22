@@ -1,4 +1,4 @@
-! Hack Protect generated Crypto phishing list - cryptophish on 21 May 2023 
+! Hack Protect generated Crypto phishing list - cryptophish on 22 May 2023 
 ! Homepage: https://hack-protect.si/
 
 fander-wallet.com
